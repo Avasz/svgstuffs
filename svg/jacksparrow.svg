@@ -12,8 +12,9 @@
 	x="824" y="549"
 	height="2705"
 	width="1463"
-	fill="black"
-	stroke="none"
+	fill="#2E0C00"
+	stroke="black"
+	stroke-width="10"
 	rx="590"
 	ry="890"
 	/>
@@ -65,7 +66,7 @@
 	y="640"
 	height="1575"
 	width="1200"
-	fill="white"
+	fill="#E1BBA5"
 	stroke="none"
 	rx="490"
 	ry="990"
@@ -78,24 +79,79 @@
 	d="M 929 1508 Q 1259 1058 2145 1235, 2199 598, 1549 598, 849 598,929 1508 "
 	/>
 
+<g id="bandana_decor" transform="scale(0.75) rotate(350,2945, -2350)">
+
+<rect
+	x="1575"
+	y="600"
+	height="140"
+	width="100"
+	stroke="black"
+	fill="#762F00"
+	stroke-width="6"
+	rx="2300"
+	ry="20"
+	/>
+
+	<circle id="first"
+		
+		cx="1635"
+		cy="780"
+		r="50"
+		
+		fill="lightblue"
+		stroke="black"
+		stroke-width="6"
+		/>
+	<ellipse 
+		cx="1635"
+		cy="850"
+		rx="40"
+		ry="20"
+		fill="white"
+		stroke-width="5"
+		stroke="black"
+		/>
+	<use xlink:href="#first" x="0" y="140"/>
+	<circle
+		cx="1635"
+		cy="1020"
+		r="60"
+		stroke="black"
+		stroke-width="5"
+		fill="red"
+		/>
+	<circle
+		cx="1635"
+		cy="1140"
+		r="80"
+		fill="silver"
+		stroke="black"
+		stroke-width="4"
+		/>
+
+
+	
+</g>
+
 <g id="eyes">
 <ellipse
 	cx="1252"
 	cy="1491"
-	rx="182"
-	ry="195"
+	rx="185"
+	ry="190"
 	stroke="none"
 	stroke-width="2"
-	fill="grey"
+	fill="#585858"
 	/>
 <ellipse
 	cx="1252"
 	cy="1491"
-	rx="182"
-	ry="145"
+	rx="175"
+	ry="140"
 	stroke="black"
-	stroke-width="2"
-	fill="white"
+	stroke-width="4"
+	fill="#F1F1F1"
 	/>
 <ellipse
 	cx="1252"
@@ -133,7 +189,7 @@
 	cy="2080"
 	rx="175"
 	ry="150"
-	fill="white"
+	fill="#E1BBA5"
 	stroke="none"
 	/>
 <ellipse
@@ -146,7 +202,7 @@
 <ellipse
 	cx="1565"
 	cy="2060"
-	fill="white"
+	fill="#E1BBA5"
 	rx="110"
 	ry="50"
 	/>
@@ -154,7 +210,7 @@
 <ellipse
 	cx="1565"
 	cy="2060"
-	fill="white"
+	fill="#E1BBA5"
 	rx="110"
 	ry="50"
 	/>
