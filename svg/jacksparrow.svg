@@ -73,14 +73,24 @@
 	
 	/>
 <rect id="face"
-	x="947"
-	y="640"
-	height="1625"
-	width="1200"
+	x="977"
+	y="700"
+	height="1325"
+	width="1150"
 	fill="#E1BBA5"
 	stroke="none"
-	rx="490"
-	ry="990"
+	rx="240"
+	ry="490"
+	/>
+<rect id="face"
+	x="1130"
+	y="1300"
+	height="960"
+	width="850"
+	fill="#E1BBA5"
+	stroke="none"
+	rx="240"
+	ry="390"
 	/>
 	
 <path id="hairbraids"
@@ -285,7 +295,7 @@
 	ry="80"
 	rx="50"
 	fill="#E1BBA5"
-	height="280"
+	height="270"
 	width="320"
 	/>
 	
