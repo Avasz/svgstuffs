@@ -49,10 +49,10 @@
 	
 	/>
 <rect 
-	x="1400"
+	x="1415"
 	y="2330"
-	height="1200"
-	width="350"
+	height="780"
+	width="320"
 	rx="970"
 	ry="230"
 	fill="white"
@@ -100,8 +100,8 @@
 <ellipse
 	cx="1252"
 	cy="1491"
-	rx="20"
-	ry="30"
+	rx="40"
+	ry="50"
 	fill="black"
 	stroke="none"
 	/>
@@ -123,7 +123,7 @@
 <ellipse
 	cx="1565"
 	cy="2030"
-	rx="190"
+	rx="185"
 	ry="200"
 	fill="black"
 	stroke="black"
@@ -151,6 +151,25 @@
 	ry="50"
 	/>
 
+<ellipse
+	cx="1565"
+	cy="2060"
+	fill="white"
+	rx="110"
+	ry="50"
+	/>
+	
+<rect id="leftspace"
+	x="1779"
+	y="2275"
+	height="700"
+	width="120"
+	fill="white"
+	rx="90"
+	ry="120"
+	stroke="none"
+	/>
+<use xlink:href="#leftspace" x="-530" y="30"/>
 	
 
 </svg>
