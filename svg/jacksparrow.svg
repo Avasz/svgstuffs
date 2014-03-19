@@ -85,12 +85,12 @@
 <rect id="face"
 	x="1130"
 	y="1000"
-	height="1250"
+	height="1230"
 	width="850"
 	fill="#E1BBA5"
 	stroke="#E1BBA5"
 	stroke-width="90"
-	rx="350"
+	rx="310"
 	ry="590"
 	/>
 	
@@ -299,6 +299,13 @@
 	height="270"
 	width="320"
 	/>
+<line
+	x1="1565" y1="2251"
+	x2="1565" y2="2100"
+	stroke="black"
+	stroke-linecap="round"
+	stroke-width="168"
+	/>
 	
 <rect id="leftspace"
 	x="1779"
@@ -335,7 +342,7 @@
 	<circle id="mid"
 	cx="1565"
 	cy="1380"
-	r="90"
+	r="120"
 	stroke="none"
 	fill="#E1BBA5"
 	
@@ -343,6 +350,8 @@
 	/>
 
 </g>
+
+
 
 
 
