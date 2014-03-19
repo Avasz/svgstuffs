@@ -2,11 +2,20 @@
 <title>Jack Sparrow</title>
 <desc> A Jack Sparrow Made using Pure SVG</desc>
 
-<defs>
-<clipPath id="cut-off-bottom">
-  <rect x="100" y="50" width="10" height="10" />
-</clipPath>
-</defs>
+
+<linearGradient id="three_stops" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" style="stop-color: red;"/>
+<stop offset="10%" style="stop-color: blue"/>
+<stop offset="20%" style="stop-color: yellow;"/>
+<stop offset="30%" style="stop-color: brown;"/>
+<stop offset="40%" style="stop-color: green;"/>
+<stop offset="50%" style="stop-color: red;"/>
+<stop offset="60%" style="stop-color: white;"/>
+<stop offset="70%" style="stop-color: black;"/>
+<stop offset="80%" style="stop-color: grey;"/>
+<stop offset="90%" style="stop-color: yellow;"/>
+<stop offset="100%" style="stop-color: red;"/>
+</linearGradient>
 
 <rect id="head"
 	x="824" y="549"
@@ -88,6 +97,30 @@
 	stroke-linecap="round"
 	d="M 999 1308 Q 800 2100 1200 2500"
 	/>
+<g id="earbeads">
+<line
+	x1="2099"
+	y1="1200"
+	x2="2200"
+	y2="2500"
+	stroke-width="35"
+	
+	stroke-linecap="round"
+	stroke="grey"
+	
+	/>
+<line
+	x1="2099"
+	y1="1200"
+	x2="2200"
+	y2="2500"
+	stroke-width="65"
+	stroke-dasharray="15,65"
+	stroke-linecap="round"
+	stroke="url(#three_stops)"
+	
+	/>
+</g>
 	
 <path id="bandana"
 	stroke="black"
@@ -238,18 +271,18 @@
 	x="1400" y="1850"
 	stroke="black"
 	stroke-width="130"
-	ry="130"
-	rx="100"
+	ry="60"
+	rx="150"
 	fill="black"
-	height="290"
+	height="200"
 	width="320"
 	/>
 <rect
 	x="1400" y="1950"
 	stroke="#E1BBA5"
 	stroke-width="80"
-	ry="130"
-	rx="100"
+	ry="80"
+	rx="50"
 	fill="#E1BBA5"
 	height="280"
 	width="320"
@@ -299,12 +332,7 @@
 
 </g>
 
-<polyline id="lips"
-	stroke="black"
-	stroke-width="10"
-	stroke-linejoin="round"
-	points="1400 2010, 1565 1970, 1730 2010 "
-	/>
+
 
 
 
