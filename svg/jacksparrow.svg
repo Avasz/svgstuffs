@@ -12,7 +12,7 @@
 	x="824" y="549"
 	height="2705"
 	width="1463"
-	fill="#2E0C00"
+	fill="#341100"
 	stroke="black"
 	stroke-width="10"
 	rx="590"
@@ -32,7 +32,8 @@
 	height="1705"
 	width="1243"
 	fill="black"
-	stroke="none"
+	stroke="black"
+	stroke-width="3"
 	rx="590"
 	ry="890"
 	/>
@@ -64,12 +65,28 @@
 <rect id="face"
 	x="947"
 	y="640"
-	height="1575"
+	height="1625"
 	width="1200"
 	fill="#E1BBA5"
 	stroke="none"
 	rx="490"
 	ry="990"
+	/>
+	
+<path id="hairbraids"
+	stroke="#632500"
+	fill="none"
+	stroke-width="30"
+	stroke-linecap="round"
+	d="M 999 1308 Q 800 2100 1200 2500"
+	/>
+<path id="hairbraids"
+	stroke="#3C1700"
+	fill="none"
+	stroke-dasharray="30,40"
+	stroke-width="40"
+	stroke-linecap="round"
+	d="M 999 1308 Q 800 2100 1200 2500"
 	/>
 	
 <path id="bandana"
@@ -78,6 +95,7 @@
 	fill="brown"
 	d="M 929 1508 Q 1259 1058 2145 1235, 2199 598, 1549 598, 849 598,929 1508 "
 	/>
+
 
 <g id="bandana_decor" transform="scale(0.75) rotate(350,2945, -2350)">
 
@@ -141,7 +159,7 @@
 	rx="185"
 	ry="190"
 	stroke="none"
-	stroke-width="2"
+	
 	fill="#585858"
 	/>
 <ellipse
@@ -150,7 +168,7 @@
 	rx="175"
 	ry="140"
 	stroke="black"
-	stroke-width="4"
+	stroke-width="15"
 	fill="#F1F1F1"
 	/>
 <ellipse
@@ -195,25 +213,25 @@
 	/>
 <ellipse
 	cx="1565"
-	cy="2160"
+	cy="2080"
 	fill="black"
 	rx="80"
-	ry="110"
+	ry="60"
 	/>
 <ellipse
 	cx="1565"
-	cy="2060"
+	cy="2030"
 	fill="#E1BBA5"
 	rx="110"
-	ry="50"
+	ry="40"
 	/>
 
 <ellipse
 	cx="1565"
-	cy="2060"
+	cy="2020"
 	fill="#E1BBA5"
 	rx="110"
-	ry="50"
+	ry="80"
 	/>
 	
 <rect id="leftspace"
@@ -259,6 +277,15 @@
 	/>
 
 </g>
+
+<polyline id="lips"
+	stroke="black"
+	stroke-width="10"
+	stroke-linejoin="round"
+	points="1400 2010, 1565 1970, 1730 2010 "
+	/>
+
+
 
 	
 
