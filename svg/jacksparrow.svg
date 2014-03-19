@@ -162,7 +162,7 @@
 	stroke="none"
 	/>
 </g>
-<use xlink:href="#eyes" x="602" y="0"/>
+<use xlink:href="#eyes" x="620" y="0"/>
 
 <!--rect 
 	x="1390"
@@ -176,6 +176,7 @@
 	stroke="black"
 	
 	/-->
+
 <ellipse
 	cx="1565"
 	cy="2030"
@@ -226,6 +227,39 @@
 	stroke="none"
 	/>
 <use xlink:href="#leftspace" x="-530" y="30"/>
+
+<g id="nose">
+<use xlink:href="#mid" x="-70" y="-10"/>
+<use xlink:href="#mid" x="70" y="-10"/>
+	<circle id="mid"
+	cx="1565"
+	cy="1780"
+	r="60"
+	stroke="black"
+	fill="#D6B19B"
+	
+	stroke-width="5"
+	/>
+<ellipse
+	cx="1565"
+	cy="1580"
+	rx="100"
+	ry="240"
+	fill="#D6B19B"
+	stroke="none"
+	/>
+	<circle id="mid"
+	cx="1565"
+	cy="1380"
+	r="90"
+	stroke="none"
+	fill="#E1BBA5"
+	
+	stroke-width="5"
+	/>
+
+</g>
+
 	
 
 </svg>
