@@ -195,7 +195,7 @@
 	
 	/-->
 
-<ellipse
+<!--ellipse
 	cx="1565"
 	cy="2030"
 	rx="185"
@@ -232,6 +232,27 @@
 	fill="#E1BBA5"
 	rx="110"
 	ry="80"
+	/-->
+
+<rect
+	x="1400" y="1850"
+	stroke="black"
+	stroke-width="130"
+	ry="130"
+	rx="100"
+	fill="black"
+	height="290"
+	width="320"
+	/>
+<rect
+	x="1400" y="1950"
+	stroke="#E1BBA5"
+	stroke-width="80"
+	ry="130"
+	rx="100"
+	fill="#E1BBA5"
+	height="280"
+	width="320"
 	/>
 	
 <rect id="leftspace"
@@ -284,6 +305,8 @@
 	stroke-linejoin="round"
 	points="1400 2010, 1565 1970, 1730 2010 "
 	/>
+
+
 
 
 
