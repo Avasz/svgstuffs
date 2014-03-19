@@ -1,0 +1,156 @@
+<svg width="2736" height="3648" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Jack Sparrow</title>
+<desc> A Jack Sparrow Made using Pure SVG</desc>
+
+<defs>
+<clipPath id="cut-off-bottom">
+  <rect x="100" y="50" width="10" height="10" />
+</clipPath>
+</defs>
+
+<rect id="head"
+	x="824" y="549"
+	height="2705"
+	width="1463"
+	fill="black"
+	stroke="none"
+	rx="590"
+	ry="890"
+	/>
+<rect id="head"
+	x="1024" y="649"
+	height="2705"
+	width="1050"
+	fill="white"
+	stroke="none"
+	rx="590"
+	ry="1090"
+	/>
+<rect id="head"
+	x="924" y="649"
+	height="1705"
+	width="1243"
+	fill="black"
+	stroke="none"
+	rx="590"
+	ry="890"
+	/>
+
+<rect 
+	x="1368"
+	y="2020"
+	height="1000"
+	width="410"
+	rx="170"
+	ry="330"
+	fill="black"
+	stroke-width="90"
+	stroke="black"
+	
+	/>
+<rect 
+	x="1400"
+	y="2330"
+	height="1200"
+	width="350"
+	rx="970"
+	ry="230"
+	fill="white"
+	stroke-width="90"
+	stroke="none"
+	
+	/>
+<rect id="face"
+	x="947"
+	y="640"
+	height="1575"
+	width="1200"
+	fill="white"
+	stroke="none"
+	rx="490"
+	ry="990"
+	/>
+	
+<path id="bandana"
+	stroke="black"
+	stroke-width="8"
+	fill="brown"
+	d="M 929 1508 Q 1259 1058 2145 1235, 2199 598, 1549 598, 849 598,929 1508 "
+	/>
+
+<g id="eyes">
+<ellipse
+	cx="1252"
+	cy="1491"
+	rx="182"
+	ry="195"
+	stroke="none"
+	stroke-width="2"
+	fill="grey"
+	/>
+<ellipse
+	cx="1252"
+	cy="1491"
+	rx="182"
+	ry="145"
+	stroke="black"
+	stroke-width="2"
+	fill="white"
+	/>
+<ellipse
+	cx="1252"
+	cy="1491"
+	rx="20"
+	ry="30"
+	fill="black"
+	stroke="none"
+	/>
+</g>
+<use xlink:href="#eyes" x="602" y="0"/>
+
+<!--rect 
+	x="1390"
+	y="1950"
+	height="300"
+	width="350"
+	rx="150"
+	ry="250"
+	fill="black"
+	stroke-width="90"
+	stroke="black"
+	
+	/-->
+<ellipse
+	cx="1565"
+	cy="2030"
+	rx="190"
+	ry="200"
+	fill="black"
+	stroke="black"
+	/>
+<ellipse
+	cx="1565"
+	cy="2080"
+	rx="175"
+	ry="150"
+	fill="white"
+	stroke="none"
+	/>
+<ellipse
+	cx="1565"
+	cy="2160"
+	fill="black"
+	rx="80"
+	ry="110"
+	/>
+<ellipse
+	cx="1565"
+	cy="2060"
+	fill="white"
+	rx="110"
+	ry="50"
+	/>
+
+	
+
+</svg>
