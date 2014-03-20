@@ -633,8 +633,8 @@ from="1200,221" to="-1200,221" fill="freeze"/>
 
 </g>
 </g>
-<g id="clouds">
-<g id="cloud1" stroke="white" fill="white" transform="translate(120,-130)">
+<g id="clouds" fill-opacity="0.75">
+<g id="cloud1" stroke="none" fill="white"  transform="translate(120,-130)">
 	<rect x="10" y="130" height="40" width="90"
 	
 	rx="20" ry="20"
