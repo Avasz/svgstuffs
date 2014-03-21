@@ -19,14 +19,78 @@
 
 <g transform="scale(0.25) translate(-500,-300)">
 <rect id="head"
+	x="740" y="549"
+	height="2605"
+	width="1263"
+	fill="#341100"
+	stroke="black"
+	stroke-width="24"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
+	rx="1990"
+	ry="2290"
+	/>
+<rect id="head"
+	x="764" y="549"
+	height="2305"
+	width="1263"
+	fill="#341100"
+	stroke="black"
+	stroke-width="24"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
+	rx="1990"
+	ry="990"
+	/>
+
+<rect id="head"
 	x="824" y="549"
 	height="2705"
 	width="1463"
 	fill="#341100"
 	stroke="black"
-	stroke-width="10"
+	stroke-width="24"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
 	rx="590"
 	ry="890"
+	/>
+	<rect id="head"
+	x="864" y="679"
+	height="2405"
+	width="663"
+	fill="#341100"
+	stroke="black"
+	stroke-width="24"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
+	rx="590"
+	ry="890"
+	/>
+	<rect id="head"
+	x="899" y="579"
+	height="2605"
+	width="1263"
+	fill="#341100"
+	stroke="black"
+	stroke-width="27"
+	stroke-dasharray="40,26"
+	stroke-linecap="round"
+	rx="1990"
+	ry="790"
+	/>
+	
+	<rect id="head"
+	x="954" y="679"
+	height="2135"
+	width="663"
+	fill="#341100"
+	stroke="black"
+	stroke-width="24"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
+	rx="190"
+	ry="590"
 	/>
 <rect id="head"
 	x="1024" y="649"
@@ -37,6 +101,7 @@
 	rx="590"
 	ry="1090"
 	/>
+	
 <rect id="head"
 	x="924" y="649"
 	height="1705"
@@ -47,6 +112,7 @@
 	rx="590"
 	ry="890"
 	/>
+	
 
 <rect 
 	x="1368"
@@ -56,7 +122,9 @@
 	rx="170"
 	ry="330"
 	fill="black"
-	stroke-width="90"
+	stroke-width="50"
+
+	stroke-linecap="round"
 	stroke="black"
 	
 	/>
@@ -69,9 +137,11 @@
 	ry="230"
 	fill="white"
 	stroke-width="90"
+	stroke-dasharray="30,30"
 	stroke="none"
 	
 	/>
+
 <rect id="face"
 	x="977"
 	y="700"
@@ -197,6 +267,8 @@
 	
 </g>
 
+
+
 <g id="eyes">
 <ellipse
 	cx="1252"
@@ -279,6 +351,7 @@
 	ry="80"
 	/-->
 
+
 <rect
 	x="1400" y="1850"
 	stroke="black"
@@ -350,6 +423,8 @@
 	/>
 
 </g>
+
+
 
 
 
