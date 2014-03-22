@@ -56,20 +56,20 @@
 
 <g id="eyes">
 <circle id="eyebrows"
-	cx="218"
-	cy="270"
+	cx="230"
+	cy="268"
 	stroke="black"
-	stroke-width="12"
-	fill="green"
-	r="75"
+	stroke-width="8"
+	fill="black"
+	r="73"
 	/>
 <circle id="clipper"
-	cx="212"
-	cy="276"
+	cx="225"
+	cy="278"
 	stroke="green"
 	stroke-width="4"
 	fill="green"
-	r="77"
+	r="75"
 	/>
 <circle id="pupils"
 	cx="240"
@@ -111,7 +111,7 @@
 	stroke-linejoin="round"
 	stroke-linecap="round"
 	fill="none"
-	points="269 327, 150 400, 150 500"
+	points="270 327, 150 400, 150 500"
 />
 <use xlink:href="#frown" transform="translate(640) scale(-1 1)"/>
 <polyline id="hair_pattern"
