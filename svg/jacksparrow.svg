@@ -42,6 +42,18 @@
 	rx="1990"
 	ry="990"
 	/>
+	<rect id="head"
+	x="1450" y="629"
+	height="2305"
+	width="900"
+	fill="#341100"
+	stroke-width="24"
+	stroke="black"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
+	rx="1290"
+	ry="1190"
+	/>
 
 <rect id="head"
 	x="824" y="549"
@@ -92,15 +104,66 @@
 	rx="190"
 	ry="590"
 	/>
+	<rect id="head"
+	x="1440" y="629"
+	height="2555"
+	width="840"
+	fill="none"
+	stroke-width="24"
+	stroke="black"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
+	rx="1290"
+	ry="1190"
+	/>
+
+<rect id="head"
+	x="1464" y="649"
+	height="2005"
+	width="750"
+	fill="none"
+	stroke-width="24"
+	stroke="black"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
+	rx="590"
+	ry="1090"
+	/>
+
+<rect id="head"
+	x="1434" y="649"
+	height="2405"
+	width="810"
+	fill="none"
+	stroke-width="24"
+	stroke="black"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
+	rx="590"
+	ry="1090"
+	/>
 <rect id="head"
 	x="1024" y="649"
 	height="2705"
 	width="1050"
 	fill="white"
-	stroke="none"
+	stroke-width="24"
+	stroke="black"
+	stroke-dasharray="30,20"
+	stroke-linecap="round"
 	rx="590"
 	ry="1090"
 	/>
+<rect id="head"
+	x="1174" y="779"
+	height="2705"
+	width="750"
+	fill="white"
+	
+	rx="1090"
+	ry="1090"
+	/>
+
 	
 <rect id="head"
 	x="924" y="649"
@@ -426,6 +489,14 @@
 
 
 
+
+<path
+	stroke="#1E0400"
+	stroke-width="15"
+	stroke-linecap="round"
+	d="M 1390 1950 Q 1400 2000 1560 1975, 1680 2000, 1726 1945, 1560 1843, 1390 1950"
+	fill="#1E0400"
+	/>
 
 
 
